@@ -1,0 +1,22 @@
+{
+  "name": "cashaddr-test-vector-generator",
+  "version": "1.0.0",
+  "description": "CashAddr (Bitcoin Cash address format) test vector generator from Bitcoin addresses",
+  "main": "index.js",
+  "scripts": {
+    "main": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osman-turan/CashAddr-Test-Vector-Generator.git"
+  },
+  "author": "Osman Turan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osman-turan/CashAddr-Test-Vector-Generator/issues"
+  },
+  "homepage": "https://github.com/osman-turan/CashAddr-Test-Vector-Generator#readme",
+  "dependencies": {
+    "bitcoincashjs": "^0.1.10"
+  }
+}
